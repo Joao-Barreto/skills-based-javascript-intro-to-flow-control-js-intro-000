@@ -23,7 +23,7 @@ if (age <= 12){
 }
 
 function ternaryTeenager(age) {
-
+teenager(age)
 }
 
 function switchAge(age) {
